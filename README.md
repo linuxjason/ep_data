@@ -4,20 +4,20 @@ RUN# docker-compose up -d
 
 Add Employee data
 
-http://ip:5000/data/create
+http://ip_address:5000/data/create
 
 List Employee data
 
-http://ip:5000/data
+http://ip_address:5000/data
 
 Print Employee data
 
-http://ip:5000/data/"<name_id>"
+http://ip_address:5000/data/"<name_id>"
 
 Update Employee data
 
-http://ip:5000/data/"<name_id>"/update
+http://ip_address:5000/data/"<name_id>"/update
 
 Delete Employee data
 
-http://ip:5000/data/"<name_id>"/delete
+http://ip_address:5000/data/"<name_id>"/delete
