@@ -1,8 +1,5 @@
-README.md
-
-# docker-compose up -d
-Creating network "data_default" with the default driver
-Creating data_app_1 ... done
+README
+RUN# docker-compose up -d
 
 Add Employee data
 http://ip:5000/data/create
@@ -10,8 +7,8 @@ http://ip:5000/data/create
 List Employee data
 http://ip:5000/data
 
-update Employee data
+Update Employee data
 http://ip:5000/data/<name>/update
 
-delete Employee data
+Delete Employee data
 http://ip:5000/data/<name>delete
