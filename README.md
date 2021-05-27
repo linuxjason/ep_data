@@ -9,7 +9,7 @@ List Employee data
 http://ip:5000/data
 
 Update Employee data
-http://ip:5000/data/<name>/update
+http://ip:5000/data/ep name/update
 
 Delete Employee data
-http://ip:5000/data/<name>delete
+http://ip:5000/data/ep name/delete
