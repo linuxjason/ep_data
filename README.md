@@ -12,12 +12,12 @@ http://ip:5000/data
 
 Print Employee data
 
-http://ip:5000/data/"<name_id>"/update
+http://ip:5000/data/"<name_id>"
 
 Update Employee data
 
-http://ip:5000/data/ep name/update
+http://ip:5000/data/"<name_id>"/update
 
 Delete Employee data
 
-http://ip:5000/data/ep name/delete
+http://ip:5000/data/"<name_id>"/delete
